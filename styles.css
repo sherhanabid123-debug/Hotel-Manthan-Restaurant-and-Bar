@@ -351,7 +351,7 @@ p {
     overflow: hidden;
     /* Cinematic Background setup */
     background: linear-gradient(rgba(9, 9, 11, 0.4), rgba(9, 9, 11, 0.9)),
-        url('unnamed-21.jpg') center/cover no-repeat;
+        url('images/interior-ambience.jpg') center/cover no-repeat;
     background-attachment: fixed;
     /* Parallax effect */
 }
