@@ -1,5 +1,7 @@
 # Hotel Manthan Restaurant and Bar
 
+**Live site:** [https://hotel-manthan-restaurant-and-bar.vercel.app](https://hotel-manthan-restaurant-and-bar.vercel.app)
+
 Website for Hotel Manthan, a restaurant and bar in Mumbai, built with plain HTML, CSS, and JavaScript.
 
 ## Features
